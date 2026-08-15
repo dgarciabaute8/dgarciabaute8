@@ -10,7 +10,7 @@
 🏥 &nbsp;I currently work in the public healthcare sector, developing data-driven solutions and analytical systems.\
 🧠 &nbsp;I've also contributed to AI-driven projects focused on improving clinical workflows.\
 🚀 &nbsp;I'm particularly interested in Data Engineering, Advanced Analytics, AI, Risk and Finance.\
-📄 &nbsp;Please have a look at my [CV]([./Dylan_Garcia_CV.pdf](https://github.com/dgarciabaute8/dgarciabaute8/blob/main/Dylan_Garcia_CV.pdf)) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [CV](https://github.com/dgarciabaute8/dgarciabaute8/raw/refs/heads/main/Dylan_Garcia_CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 

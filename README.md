@@ -4,10 +4,10 @@
 
 💡 &nbsp;I'm a Data Engineer with a background in Mathematics, Statistics, and Operations Research.\
 🎓 &nbsp;I hold a Bachelor's Degree in Mathematics from the University of La Laguna, with a focus on Statistics and Operations Research.\
-📊 &nbsp;I work with data engineering, analytics, ETL pipelines, dashboards, and data platforms.\
-🏥 &nbsp;I currently work in the public healthcare sector, developing data-driven solutions and analytical systems.\
+⚙️ &nbsp;I build data pipelines, ETL processes, analytical datasets, and dashboards using Python, SQL, and modern data platforms.\
+🏥 &nbsp;I currently work in the healthcare sector, developing data-driven solutions and analytical systems.\
 🧠 &nbsp;I've also contributed to AI-driven projects focused on improving clinical workflows.\
-🚀 &nbsp;I'm particularly interested in Data Engineering, Advanced Analytics, AI, Risk and Finance.\
+📊 &nbsp;I'm particularly interested in Data Engineering, Advanced Analytics, AI, Risk and Finance.\
 📄 &nbsp;Please have a look at my [CV](https://github.com/dgarciabaute8/dgarciabaute8/raw/refs/heads/main/Dylan_Garcia_CV.pdf) for more details about me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>

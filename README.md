@@ -52,19 +52,11 @@
 ![Stratio](https://img.shields.io/badge/-Stratio-05122A?style=flat)&nbsp;
 ![SPSS](https://img.shields.io/badge/-SPSS-05122A?style=flat&logo=ibm&logoColor=052FAD)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/dylan-garcia-baute"><img src="https://img.shields.io/badge/-Dylan%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/dylan-garcia-baute"><img src="https://img.shields.io/badge/-Dylan%20Garcia%20SBaute-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dgarciabaute8@gmail.com"><img src="https://img.shields.io/badge/-dgarciabaute8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 

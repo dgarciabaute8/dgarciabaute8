@@ -51,18 +51,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/dylan-garcia-baute">
-<img src="https://img.shields.io/badge/-Dylan%20Garcia%20Baute-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-</a>
-<a href="mailto:dgarciabaute8@gmail.com">
-<img src="https://img.shields.io/badge/-dgarciabaute8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
-</a>
-</p>
-
-
-
 <div align="center" class="icons-social">
 
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/dylan-garcia-baute">

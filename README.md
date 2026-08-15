@@ -14,7 +14,7 @@
 
 📈 &nbsp;My academic background in **Statistics, Multivariate Analysis, Statistical Inference, and Operations Research** gives me a strong foundation for solving analytical and optimization problems.
 
-🚀 &nbsp;I'm interested in building **end-to-end data and AI solutions**, particularly across **Data Engineering, Advanced Analytics, Machine Learning, Healthcare, Risk, and Finance**.
+🚀 &nbsp;I'm interested in building **end-to-end data and AI solutions**, particularly across **Data Engineering, Advanced Analytics, Machine Learning, Healthcare, Risk and Finance**.
 
 📄 &nbsp;You can find more details about my experience and education in my [**CV**](https://github.com/dgarciabaute8/dgarciabaute8/raw/refs/heads/main/Dylan_Garcia_CV.pdf).
 

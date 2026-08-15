@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Dylan</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! 👋 I'm Dylan</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -50,7 +50,7 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=matlab&logoColor=0076A8)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dylan-garcia-baute">
@@ -60,3 +60,25 @@
 <img src="https://img.shields.io/badge/-dgarciabaute8@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 </p>
+
+
+
+<div align="center" class="icons-social">
+
+  <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/dylan-garcia-baute">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+  </a>
+
+  <a style="margin-left: 10px;" target="_blank" href="mailto:dgarciabaute8@gmail.com">
+    <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png">
+  </a>
+
+</div>
+
+
+
+
+
+
+
+

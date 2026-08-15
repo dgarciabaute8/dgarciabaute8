@@ -1,13 +1,21 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! 👋 I'm Dylan</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
+
 💡 &nbsp;I combine a **Mathematics background** with practical experience in **data engineering, analytics, and AI**, with a strong focus on turning complex data into useful solutions.
+
 🎓 &nbsp;I hold a **Bachelor's Degree in Mathematics** from the University of La Laguna, specializing in **Statistics and Operations Research**.
+
 ⚙️ &nbsp;My work involves building **ETL pipelines, data transformations, analytical datasets, SQL-based solutions, and dashboards**, working across the data lifecycle from raw data to business insights.
+
 🏥 &nbsp;I currently work in the **healthcare sector**, where I develop **data-driven solutions and analytical systems** to support healthcare operations and decision-making.
+
 🧠 &nbsp;I've also worked on **AI-driven solutions**, combining data analysis and machine learning to address problems related to **healthcare and clinical workflows**.
+
 📈 &nbsp;My academic background in **Statistics, Multivariate Analysis, Statistical Inference, and Operations Research** gives me a strong foundation for solving analytical and optimization problems.
+
 🚀 &nbsp;I'm interested in building **end-to-end data and AI solutions**, particularly across **Data Engineering, Advanced Analytics, Machine Learning, Healthcare, Risk, and Finance**.
+
 📄 &nbsp;You can find more details about my experience and education in my [**CV**](https://github.com/dgarciabaute8/dgarciabaute8/raw/refs/heads/main/Dylan_Garcia_CV.pdf).
 <br>
 

@@ -19,6 +19,7 @@
 📄 &nbsp;You can find more details about my experience and education in my [**CV**](https://github.com/dgarciabaute8/dgarciabaute8/raw/refs/heads/main/Dylan_Garcia_CV.pdf).
 
 <br>
+<br>
 
 <a target="_blank" align="center">
   <img align="right" height="260" width="350" alt="Data Engineering" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">

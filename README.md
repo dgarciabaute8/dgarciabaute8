@@ -10,6 +10,9 @@
 📊 &nbsp;I'm particularly interested in **Data Engineering, Advanced Analytics, AI, Risk, and Finance**.\
 📄 &nbsp;Please have a look at my [**CV**](https://github.com/dgarciabaute8/dgarciabaute8/raw/refs/heads/main/Dylan_Garcia_CV.pdf) for more details about me.
 
+<br>
+<br>
+
 <a target="_blank" align="center">
   <img align="right" height="260" width="350" alt="Data Engineering" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -25,11 +28,15 @@
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoftexcel&logoColor=217346)&nbsp;
 ![SPSS](https://img.shields.io/badge/-SPSS-05122A?style=flat&logo=ibm&logoColor=052FAD)&nbsp;
 
+<br>
+
 **🤖 Machine Learning & AI**
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
+
+<br>
 
 **⚙️ Data Engineering & Databases**
 
@@ -39,10 +46,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
 ![Stratio](https://img.shields.io/badge/-Stratio-05122A?style=flat)&nbsp;
 
+<br>
+
 **📊 Data Visualization & BI**
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio&logoColor=75AADB)&nbsp;
+
+<br>
 
 **💻 Tools & Development**
 
@@ -52,10 +63,14 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=matlab&logoColor=0076A8)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
+<br>
+<br>
 
 ### 🚀 &nbsp;Projects
 
 *Coming soon...*
+
+<br>
 
 ### 🤝 &nbsp;Connect with me
 

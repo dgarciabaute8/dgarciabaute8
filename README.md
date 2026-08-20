@@ -74,12 +74,6 @@
 <br>
 <br>
 
-### 🚀 &nbsp;Projects
-
-*Coming soon...*
-
-<br>
-
 ### 🤝 &nbsp;Connect with me
 
 <div align="center">
